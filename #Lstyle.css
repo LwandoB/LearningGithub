@@ -1,0 +1,36 @@
+*{
+color: blue;
+    
+
+}
+
+.nav-bar{background-color: blueviolet;
+    padding: 5px 15px;
+    color: beige;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 22px;
+
+}
+
+img{
+    height: 400px;
+    width: auto;
+    flex-basis: 50%;
+    display: flex;
+}
+ul{
+list-style: none;
+text-decoration: none;
+display: flex;
+gap: 15px;
+}
+.landing{
+    height: 100vh;
+    background-color: blueviolet;
+}
+
+p{
+    padding: 0px; 10px;
+}
